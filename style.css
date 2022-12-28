@@ -1,0 +1,179 @@
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body{
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+#header{
+    display: flex;
+    align-items: centre;
+    border-radius: 1.5%;
+
+}
+
+h3{
+    color: white;
+    font-size: 20px;
+    padding-left: 50px;
+    word-spacing: 2px ;
+}
+
+#name{
+    padding-left: 50px;
+    font-size: larger;
+    font-size: 75px;
+    padding-bottom: 0%;
+    margin: 20px 0px 20px;
+}
+
+span{
+    color: red;
+}
+
+
+#line-2{
+    font-size: 70px;
+    font-family: cursive;
+    margin-top: 0%;
+}
+
+.img{
+    align-items: flex-end;
+    height: auto;
+margin-left:  auto;
+margin-right:  auto;
+margin-bottom: auto;
+border-bottom: dashed;
+border-right: dashed;
+
+}
+
+#part-2{
+    display: flex;
+    font-size: medium;
+    align-items: centre;
+    border-radius: 1.5%;
+    width:auto;
+    max-width: auto;
+    margin: auto;
+    
+    
+}
+
+.image2{
+    height: 60%;
+margin-left:  auto;
+margin-right:  0px;
+margin-bottom: 0px;
+border-bottom: dashed;
+border-left: dashed;
+}
+
+#text{
+    padding: 5% 10% 20% 0%;
+
+}
+
+.aboutme{
+letter-spacing: 2px;
+text-transform: capitalize;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 50px;
+margin-bottom: 25px;
+    
+}
+
+.about-text{
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+
+}
+
+
+
+#final{
+    display: flex;
+    align-items: center;
+}
+
+button{
+    background-color: rgb(200, 15, 52);
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    border-radius: 30px;
+    transition: .4s;
+    align-items: center;
+    padding: 15px 20px;
+    margin: 4px 2px;
+}
+
+
+#edu{
+    align-items: flex-start;
+margin: auto;
+font-size: large;
+line-height: 20px;
+
+}
+
+table{
+    border: solid;
+    
+}
+
+
+#exp{
+    align-items: flex-end;
+    font-size: large;
+}
+
+#align{
+ align-items: left;
+}
+
+#end{
+    display: flex;
+    padding: 0%;
+}
+
+footer{
+    background-color: rgb(48, 47, 47);
+    color: white;
+    margin: auto;
+    padding: 20px 0px 0px 0px;
+}
+
+#last{
+
+    text-align: center;
+}
+
+#add{
+    align-items: flex-start;
+    margin: auto;
+    line-height: 60px;
+}
+
+#contactinfo{
+    align-items: flex-end;
+    margin: auto;
+    line-height: 50px;
+    color: white;
+    font-size: large;}
+
+
+
+#t{
+    word-spacing: 100px;
+}
